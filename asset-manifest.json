@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "https://iceymann18777.github.io/csb-y221u/static/css/main.23530710.chunk.css",
+    "main.js": "https://iceymann18777.github.io/csb-y221u/static/js/main.bc19f443.chunk.js",
+    "main.js.map": "https://iceymann18777.github.io/csb-y221u/static/js/main.bc19f443.chunk.js.map",
+    "runtime-main.js": "https://iceymann18777.github.io/csb-y221u/static/js/runtime-main.51728a9f.js",
+    "runtime-main.js.map": "https://iceymann18777.github.io/csb-y221u/static/js/runtime-main.51728a9f.js.map",
+    "static/js/2.a9e7ea9a.chunk.js": "https://iceymann18777.github.io/csb-y221u/static/js/2.a9e7ea9a.chunk.js",
+    "static/js/2.a9e7ea9a.chunk.js.map": "https://iceymann18777.github.io/csb-y221u/static/js/2.a9e7ea9a.chunk.js.map",
+    "index.html": "https://iceymann18777.github.io/csb-y221u/index.html",
+    "static/css/main.23530710.chunk.css.map": "https://iceymann18777.github.io/csb-y221u/static/css/main.23530710.chunk.css.map",
+    "static/js/2.a9e7ea9a.chunk.js.LICENSE.txt": "https://iceymann18777.github.io/csb-y221u/static/js/2.a9e7ea9a.chunk.js.LICENSE.txt",
+    "static/media/QBERTSWAG.560fb320.png": "https://iceymann18777.github.io/csb-y221u/static/media/QBERTSWAG.560fb320.png",
+    "static/media/RCUBE.6f45281d.png": "https://iceymann18777.github.io/csb-y221u/static/media/RCUBE.6f45281d.png",
+    "static/media/main.css": "https://iceymann18777.github.io/csb-y221u/static/media/wallet.e530c527.svg",
+    "static/media/bg-all.fefe0308.jpg": "https://iceymann18777.github.io/csb-y221u/static/media/bg-all.fefe0308.jpg",
+    "static/media/binance-wallet.358a42f2.png": "https://iceymann18777.github.io/csb-y221u/static/media/binance-wallet.358a42f2.png",
+    "static/media/discord.d7784c5e.svg": "https://iceymann18777.github.io/csb-y221u/static/media/discord.d7784c5e.svg",
+    "static/media/github.0a1ec797.svg": "https://iceymann18777.github.io/csb-y221u/static/media/github.0a1ec797.svg",
+    "static/media/logo.7ecfd697.png": "https://iceymann18777.github.io/csb-y221u/static/media/logo.7ecfd697.png",
+    "static/media/math-wallet.31b56cc5.svg": "https://iceymann18777.github.io/csb-y221u/static/media/math-wallet.31b56cc5.svg",
+    "static/media/medium.12451ccc.svg": "https://iceymann18777.github.io/csb-y221u/static/media/medium.12451ccc.svg",
+    "static/media/metamask.3d389f07.svg": "https://iceymann18777.github.io/csb-y221u/static/media/metamask.3d389f07.svg",
+    "static/media/safepal-wallet.cf402e1e.svg": "https://iceymann18777.github.io/csb-y221u/static/media/safepal-wallet.cf402e1e.svg",
+    "static/media/telegram.8a8f9a4e.svg": "https://iceymann18777.github.io/csb-y221u/static/media/telegram.8a8f9a4e.svg",
+    "static/media/trust-wallet.123a2360.svg": "https://iceymann18777.github.io/csb-y221u/static/media/trust-wallet.123a2360.svg",
+    "static/media/twitter.a9d636c9.svg": "https://iceymann18777.github.io/csb-y221u/static/media/twitter.a9d636c9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51728a9f.js",
+    "static/js/2.a9e7ea9a.chunk.js",
+    "static/css/main.23530710.chunk.css",
+    "static/js/main.bc19f443.chunk.js"
+  ]
+}
